@@ -1,0 +1,21 @@
+{
+  "name": "nodejssample4",
+  "version": "1.0.0",
+  "description": "Ejemplo 4 de NodeJs",
+  "main": "index3.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: No test especified\" && exit 1",
+    "start": "node index3.js"
+  },
+  "keywords": [
+    "nodejs",
+    "colors",
+    "server"
+  ],
+  "author": "memillo21",
+  "license": "ISC"
+}
